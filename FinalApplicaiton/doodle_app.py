@@ -21,7 +21,7 @@ ORANGE = (255, 184, 108)
 CYAN = (139, 233, 253)
 
 # Model and class names
-MODEL_PATH = "QuickDraw_CNN_35_classes.h5"
+MODEL_PATH = "QuickDraw_CNN_35_best_9410.h5"
 CLASS_NAMES = [
     "apple", "arm", "banana", "baseball bat", "beard", "bed", "bicycle",
     "book", "bowtie", "bridge", "camera", "car", "cat", "chair", "circle",
@@ -206,3 +206,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
