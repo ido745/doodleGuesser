@@ -63,7 +63,7 @@ Feel free to experiment with:
 
 ## 📊 Current Model Performance
 
-- **Test Accuracy**: `92.56%`  
+- **Test Accuracy**: `94.10%`  
   _(Using 35 categories from the QuickDraw dataset)_
 
 ---
